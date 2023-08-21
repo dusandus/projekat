@@ -1,0 +1,23 @@
+.black{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    display: inline-block;
+
+
+}
+
+.white{
+    display: inline-block;
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+}
+
+.holder{
+    border: 1px solid black;
+    display: block;
+    width: 500px;
+    height: 500px;
+}
